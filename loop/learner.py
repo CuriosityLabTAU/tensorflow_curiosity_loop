@@ -1,6 +1,5 @@
 from __future__ import division
 import numpy as np
-import CNN
 import NNBuildingBlock
 import tensorflow as tf
 
